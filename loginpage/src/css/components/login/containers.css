@@ -1,0 +1,36 @@
+/* ------------------- CAPA CENTRAL  ------------------------- */
+
+.container {
+    display: flex;
+    background-color: rgba(235, 235, 235, 0.96);
+    max-width: 800px;
+    justify-content: space-between;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.177);
+    padding: 20px 0px;
+}
+
+/* ------------------- CAPA CENTRAL  ------------------------- */
+
+/* ------------------- CONTAINER LOGIN  ------------------------- */
+
+.account-login {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border-radius: 20px;
+}
+
+/* ------------------- CONTAINER LOGIN  ------------------------- */
+
+/* ------------------- CONTAINER IMAGE  ------------------------- */
+
+.container-img {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* ------------------- CONTAINER IMAGE  ------------------------- */

@@ -1,0 +1,20 @@
+/* ------------------- BUTTON LOGINS  ------------------------- */
+
+.button-login {
+    margin-top: 10px;
+    padding: 15px 0px;
+    width: 80%;
+    cursor: pointer;
+    background-color: rgb(82, 82, 82);
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-family: var(--Poppins);
+    letter-spacing: 5px;
+}
+
+.button-login:hover {
+    background-color: rgb(75, 75, 75);
+}
+
+/* ------------------- BUTTON LOGINS  ------------------------- */

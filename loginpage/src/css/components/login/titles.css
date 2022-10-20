@@ -1,0 +1,24 @@
+/* ------------------- TITLES LOGINS  ------------------------- */
+
+.title-login h1 {
+    padding-top: 20px;
+    width: 80%;
+    text-align: center;
+    font-family: var(--Poppins);
+    font-weight: 500;
+    letter-spacing: 8px;
+}
+
+.title-login p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    width: 80%;
+    text-align: center;
+    font-family: var(--Poppins);
+}
+
+*:not(a) {
+    color: rgb(63, 63, 63);
+}
+
+/* ------------------- TITLES LOGINS  ------------------------- */

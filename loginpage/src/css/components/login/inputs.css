@@ -1,0 +1,40 @@
+/* ------------------- INPUTS LOGINS  ------------------------- */
+
+.inputs-div {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    border-radius: 20px;
+}
+
+.inputs-div p {
+    padding-top: 7px;
+    font-size: 18px;
+}
+
+.inputs-div a {
+    font-family: var(--Poppins);
+}
+
+.inputs-login {
+    padding: 10px 20px;
+    width: 80%;
+    outline: none;
+    font-size: 15px;
+}
+
+
+::placeholder {
+    font-size: 15px;
+}
+
+.labels-login {
+    font-size: 20px;
+    margin-top: 15px;
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    font-family: var(--Poppins);
+}
+
+/* ------------------- INPUTS LOGINS  ------------------------- */
