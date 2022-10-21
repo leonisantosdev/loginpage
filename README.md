@@ -1,6 +1,6 @@
 # LOGIN-PAGE
 
-  Projeto criar apenas com HTML e CSS para simular uma página de login. Simples e básico apenas para treinar algumas skills.
+  Projeto criado apenas com HTML e CSS para simular uma página de login. Simples e básico apenas para treinar algumas skills.
   
 Responsivo? Sim </br>
 Telas? Mobile. Tablets e Desktops </br>
