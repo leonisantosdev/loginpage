@@ -69,6 +69,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  <br />
  <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
 </a>
+ <br />
 
 Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
 
