@@ -2,7 +2,7 @@
 
 <div align="center">
 	<h3 align="center">Login Page</h3>
-	<p align="center">Projeto de uma página responsiva de login criada a partir de bastante CSS e HTML.</p>
+	<p align="center">Projeto de uma página responsiva de login criada a partir de bastante CSS e HTML nas suas funcionalidades.</p>
 </div>
 <h3  align="center">
 		✅ Status: concluído ✅
