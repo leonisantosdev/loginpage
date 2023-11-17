@@ -63,13 +63,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ## 🤓 Autor
 
 <div align="center" >
-<a href="https://www.linkedin.com/in/leonisantos/" border-radius="4px">
+<a href="https://www.linkedin.com/in/leonisantos/">
  <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
  <br />
  <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
 </a>
 
-Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
+<p>Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!</p>
 
 </div>
 
