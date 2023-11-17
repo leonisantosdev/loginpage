@@ -66,10 +66,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 <a href="https://www.linkedin.com/in/leonisantos/">
  <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
  <br />
+ <br />
  <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
 </a>
 
-<p>Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!</p>
+Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
 
 </div>
 
