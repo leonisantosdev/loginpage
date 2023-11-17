@@ -63,8 +63,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ## 🤓 Autor
 
 <div align="center" >
-<a href="https://www.linkedin.com/in/leonisantos/">
- <img src="https://avatars.githubusercontent.com/u/110071892?v=4" border-radius="4px"; width="200px;" alt="perfil"/>
+<a href="https://www.linkedin.com/in/leonisantos/" border-radius="4px">
+ <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
  <br />
  <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
 </a>
