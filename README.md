@@ -26,7 +26,7 @@ Projeto desenvolvido através de idéias e estudos feitos pessoalmente. Um proje
 ## 📺 Demonstração
 
 <p align="center">
-  <img alt="Demonstração" src="https://user-images.githubusercontent.com/110071892/197017459-d745555a-7d78-4b14-9a0c-096c361e7352.png" width="800">
+  <img alt="Demonstração" src="https://user-images.githubusercontent.com/110071892/197017459-d745555a-7d78-4b14-9a0c-096c361e7352.png" width="950">
 </p>
 
 ## 🛠 Tecnologias
