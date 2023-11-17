@@ -1,4 +1,4 @@
-<p align="center"><img src="readme/Logo.png" width="150px"></p>
+<p align="center"><img src="logo-readme.png" width="150px"></p>
 
 <div align="center">
 	<h3 align="center">Login Page</h3>
