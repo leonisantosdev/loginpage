@@ -21,7 +21,7 @@
 - [Autor](#-Autor)
 
 ## 📖 Sobre
-Projeto desenvolvido através de idéias e estudos feitos pessoalmente. Um projeto que consistem em uma página de login responsiva com uma marca ficticia onde o usuário pode tanto como criar uma conta ou logar.
+Projeto desenvolvido através de idéias e estudos feitos pessoalmente. Um projeto que consiste em uma página de login responsiva com uma marca ficticia onde o usuário pode tanto como criar uma conta ou logar. As funções de login e criação de conta são apenas estéticas pois o projeto não tem ligação com banco de dados.
 
 ## 📺 Demonstração
 
