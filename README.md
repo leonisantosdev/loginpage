@@ -13,12 +13,12 @@
 
 ## 🗒️ Content
 
-- [About](#-Sobre)
-- [Demonstration](#-Demonstração)
-- [Technologies](#-tecnologias)
-- [Prerequisites](#-Pré-requisitos)
+- [About](#-About)
+- [Demonstration](#-Demonstration)
+- [Technologies](#-Technologies)
+- [Prerequisites](#-Prerequisites)
 - [How to run?](#-Rodando-a-aplicação)
-- [Author](#-Autor)
+- [Author](#-Author)
 
 ## 📖 About
 Project developed through personal ideas and studies. A project consisting of a responsive login page with a fictional brand where the user can either create an account or log in. The login and account creation functions are only aesthetic, as the project is not connected to a database.
