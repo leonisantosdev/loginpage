@@ -2,65 +2,65 @@
 
 <div align="center">
 	<h3 align="center">Login Page</h3>
-	<p align="center">Projeto de uma página responsiva de login criada a partir de bastante CSS e HTML nas suas funcionalidades.</p>
+	<p align="center">Project of a responsive login page created with a significant amount of CSS and HTML in its functionalities.</p>
 </div>
 <h3  align="center">
-		✅ Status: concluído ✅
+		✅ Status: Completed ✅
 </h3>
 <div align="center">
-<a href="#">Acesse a aplicação clicando aqui !</a>
+<a href="#">Access the application by clicking here!</a>
 </div>
 
-## 🗒️ Conteúdo
+## 🗒️ Content
 
-- [Sobre](#-Sobre)
-- [Demonstração](#-Demonstração)
-- [Tecnologias](#-tecnologias)
-- [Pré-requisitos](#-Pré-requisitos)
-- [Como rodar?](#-Rodando-a-aplicação)
-- [Autor](#-Autor)
+- [About](#-Sobre)
+- [Demonstration](#-Demonstração)
+- [Technologies](#-tecnologias)
+- [Prerequisites](#-Pré-requisitos)
+- [How to run?](#-Rodando-a-aplicação)
+- [Author](#-Autor)
 
-## 📖 Sobre
-Projeto desenvolvido através de idéias e estudos feitos pessoalmente. Um projeto que consiste em uma página de login responsiva com uma marca ficticia onde o usuário pode tanto como criar uma conta ou logar. As funções de login e criação de conta são apenas estéticas pois o projeto não tem ligação com banco de dados.
+## 📖 About
+Project developed through personal ideas and studies. A project consisting of a responsive login page with a fictional brand where the user can either create an account or log in. The login and account creation functions are only aesthetic, as the project is not connected to a database.
 
-## 📺 Demonstração
+## 📺 Demonstration
 
 <p align="center">
   <img alt="Demonstração" src="exemplar.gif" width="800">
 </p>
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## ⚠️ Pré-requisitos
+## ⚠️ Prerequisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before you begin, you will need to have the following tools installed on your machine:
 
 - [VSCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com)
 - [NPM](https://www.npmjs.com)
 
 
-## 🔥 Rodando a aplicação
+## 🔥 Running the application
 
 ```bash
-# Baixe este repositório
+# Download this repository
 
-# Acesse a pasta do projeto no vscode:
+# Access the project folder in vscode:
 
-# Execute o arquivo index.html com o LiveServer pelo vscode
-# ou abra o arquivo index.html no seu navegador
+# Run the index.html file with LiveServer through vscode
+# or open the index.html file in your browser
 
-# A aplicação iniciará localmente na sua maquina !
+# The application will start locally on your machine!
 ```
 
-<!-- AUTOR -->
+<!-- AUTHOR -->
 
-## 🤓 Autor
+## 🤓 Author
 
 <div align="center" >
 <a href="https://www.linkedin.com/in/leonisantos/">
@@ -70,7 +70,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 </a>
  <br />
  <br />
-Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
+Made with ❤️ by Leôni Santos 👋🏽 Get in touch!
 
 </div>
 
