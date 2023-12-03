@@ -17,7 +17,7 @@
 - [Demonstration](#-Demonstration)
 - [Technologies](#-Technologies)
 - [Prerequisites](#-Prerequisites)
-- [How to run?](#-Rodando-a-aplicação)
+- [How to run?](#-Running-the-application)
 - [Author](#-Author)
 
 ## 📖 About
