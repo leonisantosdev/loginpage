@@ -16,7 +16,7 @@
 - [About](#-About)
 - [Demonstration](#-Demonstration)
 - [Technologies](#-Technologies)
-- [Prerequisites](#-Prerequisites)
+- [Pre-requisites](#-Pre-requisites)
 - [How to run?](#-Running-the-application)
 - [Author](#-Author)
 
@@ -36,7 +36,7 @@ The following tools were used in the construction of the project:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## ⚠️ Prerequisites
+## ⚠️ Pre-requisites
 
 Before you begin, you will need to have the following tools installed on your machine:
 
